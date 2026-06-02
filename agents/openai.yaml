@@ -1,0 +1,5 @@
+interface:
+  display_name: "人生导师·毛泽东"
+  short_description: "以毛主席视角和毛泽东思想体系指导人生困惑的智能导师"
+  brand_color: "#E60012"
+  default_prompt: "Use $life-mentor to ask Chairman Mao for life advice."
